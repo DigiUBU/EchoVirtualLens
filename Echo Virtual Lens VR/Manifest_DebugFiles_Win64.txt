@@ -1,8 +1,0 @@
-EchoVirtualLens/Binaries/Win64/TheVirtualCode.pdb	2026-03-04T10:37:20.970Z
-EchoVirtualLens/Binaries/Win64/tbb.pdb	2024-01-31T14:53:50.269Z
-EchoVirtualLens/Binaries/Win64/tbbmalloc.pdb	2024-01-31T14:53:50.277Z
-Engine/Content/SlateDebug/Fonts/LastResort.tps	2024-01-31T14:55:57.712Z
-Engine/Content/SlateDebug/Fonts/LastResort.ttf	2024-01-31T14:55:57.731Z
-Engine/Extras/GPUDumpViewer/GPUDumpViewer.html	2024-01-31T15:01:09.364Z
-Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat	2024-01-31T15:01:09.364Z
-Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh	2024-01-31T15:01:09.365Z
