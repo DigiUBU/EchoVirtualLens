@@ -1,0 +1,4 @@
+ - 5CDE572E471AE3F7B3F50DA8A87E9D82 
+	/Game/AFCore/Blueprints/Widgets/Debug/Elements/Widget_HUD_Debug_Info_TraceField.Default__Widget_HUD_Debug_Info_TraceField_C.Text - "Test" 
+	/Game/AFCore/Blueprints/Widgets/Debug/Elements/Widget_HUD_Debug_Info_TraceField.Widget_HUD_Debug_Info_TraceField_C:WidgetTree.MainText.Text - "Select" 
+
